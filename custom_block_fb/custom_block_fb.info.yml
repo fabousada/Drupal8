@@ -1,0 +1,7 @@
+name: Example Block 
+description: Create blocks using plugins
+package: FBCustom
+type: module
+dependencies: 
+  - block
+core: 8.x
