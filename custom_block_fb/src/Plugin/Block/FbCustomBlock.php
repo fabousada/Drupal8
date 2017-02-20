@@ -9,7 +9,6 @@
  use Drupal\Core\Access\AccessResult;
  
  /**
- * Provides a 'RSVP' List Block
  *
  * @Block(
  *   id = "fb_custom_block",
